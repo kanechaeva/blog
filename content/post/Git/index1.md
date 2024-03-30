@@ -22,7 +22,7 @@ featured: false
 
 # cat image
 # Place an image named `cat.jpg` in this page's folder and customize its options here.
-image: 
+image:
   caption: Система контроля версий
   focal_point: ''
   placement: 5

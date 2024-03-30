@@ -41,8 +41,8 @@ education:
     - course: Компьютерные и информационные науки
       institution: RUDN University
       year: 2023
-    - course: ГБОУ №1234, немецкое отделение
-      institution: 
+    - course: Среднее общее образование
+      institution: ГБОУ №1234, немецкое отделение
       year: 2011-2023
 
 # Skills
@@ -50,15 +50,15 @@ education:
 skills:
   - name: Technical
     items:
-      - name: Python
+      - name: C++
         description: ''
         percent: 40
-        icon: python
+        icon: c++
         icon_pack: fab
-      - name: Data Science
+      - name: Linux
         description: ''
-        percent: 85
-        icon: chart-line
+        percent: 75
+        icon: linux
         icon_pack: fas
       - name: SQL
         description: ''
@@ -72,7 +72,7 @@ skills:
       - name: Playing the piano
         description: ''
         percent: 85
-        icon: piano
+        icon: music
         icon_pack: fas
       - name: Cats
         description: ''
