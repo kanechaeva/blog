@@ -3,7 +3,7 @@
 title: Kira Nechaeva
 
 # Name pronunciation (optional)
-name_pronunciation: Kira Nechaeva
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Kira
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Student of RUDN University
+role: Student of RUDN University ☕️
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -33,6 +33,9 @@ interests:
   - Пение
   - Изучение операционных систем
   - Инвестиции
+  - Пауерлифтинг
+  - Гиревой спорт
+  - Визуальные новеллы
 
 # Education to show in About widget
 education:
@@ -43,6 +46,9 @@ education:
       year: 2023
     - course: Среднее общее образование
       institution: ГБОУ №1234, немецкое отделение
+      year: 2011-2023
+    - course: Общее музыкальное образование
+      institution: ДМШ им. А.Н. Александрова
       year: 2011-2023
 
 # Skills
@@ -93,31 +99,34 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
+  - icon: book
+    icon_pack: fas
+    link: https://elibrary.ru/project_user_office.asp
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/scholar?scilib=1&hl=ru
+  - icon: orcid
+    icon_pack: fab
+    link: https://orcid.org/my-orcid?orcid=0009-0004-8946-0974
+  - icon: mendeley
+    icon_pack: fab
+    link: https://www.mendeley.com/search/
+  - icon: researchgate
+    icon_pack: fab
+    link: https://www.researchgate.net/profile/Kira-Nechaeva
+  - icon: academia.edu
+    icon_pack: fab
+    link: https://independent.academia.edu/%D0%9A%D0%B8%D1%80%D0%B0%D0%9D%D0%B5%D1%87%D0%B0%D0%B5%D0%B2%D0%B0
   - icon: github
     icon_pack: fab
     link: https://github.com/kanechaeva
-  - icon: linkedin
+  - icon: arxiv
     icon_pack: fab
-    link: https://www.linkedin.com/
-  # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+    link: https://arxiv.org/user/
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Я являюсь студенткой российского университета дружбы народов. На данный момент я обучаюсь на специальности "Компьютерные и информационные науки". В основном я занимаюсь освоением различных языков программирования (С, С++, Python, SQL) и исследованием операционных систем. Так же значительную часть времени я посвящаю изучению математического анализа и дискретной математики.
+Я являюсь студенткой РУДН. На данный момент я обучаюсь на ФФМиЕН по uспециальности "Компьютерные и информационные науки". В основном я занимаюсь освоением различных языков программирования (С, С++, Python, SQL) и исследованием операционных систем. Так же значительную часть времени я посвящаю изучению математического анализа и дискретной математики. Плюс могу сделать простенькую визуальную новеллу.)
 {style="text-align: justify;"}
